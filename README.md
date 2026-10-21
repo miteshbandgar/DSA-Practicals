@@ -8,6 +8,6 @@
 | Practical Assignment 4 | Call Log Management | Singly Linked List | [singly_call_log.cpp](singly_linked_list_call_log.cpp) |
 | Practical Assignment 4 | Train Reservation System | Doubly Linked List | [doubly_train_reservation.cpp](doubly_train_reservation.cpp) |
 | Practical Assignment 4 | Music Playlist Management | Circular Linked List | [circular_music_playlist.cpp](circular_music_playlist.cpp) |
-| Practical Assignment 6 | Stack using two Queues | Stack, Queue | [practice_problem_6_stack_using_two_queues.cpp](stack_using_two_queues.cpp) |
-| Practical Assignment 7 | Queue using Linked List | Queue, Linked List | [practice_problem_7_queue_using_linked_list.cpp](queue_using_linked_list.cpp) |
-| Practical Assignment 8 | Queue using two Stacks | Queue, Stack | [practice_problem_8_queue_using_two_stacks.cpp](queue_using_two_stacks.cpp) |
+| Practical Assignment 6 | Stack using two Queues | Stack, Queue | [stack_using_two_queues.cpp](stack_using_two_queues.cpp) |
+| Practical Assignment 7 | Queue using Linked List | Queue, Linked List | [queue_using_linked_list.cpp](queue_using_linked_list.cpp) |
+| Practical Assignment 8 | Queue using two Stacks | Queue, Stack | [queue_using_two_stacks.cpp](queue_using_two_stacks.cpp) |
