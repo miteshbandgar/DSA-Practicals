@@ -1,7 +1,6 @@
 # DSA-Practicals 💻
 
-**Name:** Mitesh Bandgar | **PRN:** 202501110128 | **Batch:** AIML B2
-**Institute:** MIT Academy of Engineering |
+**Name:** Mitesh Bandgar | **PRN:** 202501110128 | **Batch:** AIML B2 (SY)
 
 | Assignment | Topic | Data Structure | Code |
 |---|---|---|---|
