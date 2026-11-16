@@ -13,3 +13,5 @@
 | Practical Assignment 5 | Stack using two Queues | Stack, Queue | [stack_using_two_queues.cpp](stack_using_two_queues.cpp) |
 | Practical Assignment 6a | Queue using Linked List | Queue, Linked List | [queue_using_linked_list.cpp](queue_using_linked_list.cpp) |
 | Practical Assignment 6b | Queue using two Stacks | Queue, Stack | [queue_using_two_stacks.cpp](queue_using_two_stacks.cpp) |
+| Practical Assignment 7 | Task Scheduler (Front/Rear & High-Priority) | Double-Ended Queue (Deque) | [task_scheduler_deque.cpp](task_scheduler_deque.cpp) |
+| Practical Assignment 8 | Palindrome String Checker | Double-Ended Queue (Deque) | [palindrome_deque.cpp](palindrome_deque.cpp) |
